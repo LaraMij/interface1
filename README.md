@@ -48,20 +48,3 @@ Player{name='Tim', hitPoints=10, strength=15, weapon='Sword'}
 
 Monster{name='Werewolf', hitPoints=20, strength=40}
 
-TIP:  Player and Monster need to implement ISaveable.
-
-TIP:  Be extremely careful with the spelling of the names of the fields, constructors and methods.
-
-TIP:  Be extremely careful about spaces and spelling in the returned String from the toString() method.
-
-NOTE:  All fields are private.
-
-NOTE:  Both constructors are public.
-
-NOTE:  All methods are public. 
-
-NOTE:  There are no static members.
-
-NOTE:  Do not add a main method to the solution code.
-
-NOTE:  If you get an error from the Evaluate class, it's most likely the constructor. Check if you've added a constructor or if the constructor has the right arguments.
